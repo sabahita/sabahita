@@ -6,9 +6,9 @@
 
 # *˖°- 👾 *What I'm learning right now* 🪐✧˖°
 
-- [ ] Python
-- [x] C++
-- [ ] Batch
+- [ ] *Python*
+- [x] *C++*
+- [ ] *Batch*
 
 # *˖°- 🎹 *Upcoming Projects* 🌌✧˖°
 
