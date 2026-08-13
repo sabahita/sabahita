@@ -8,6 +8,6 @@
 - [x] *C++*
 - [ ] *Batch*
 
-# *˖°- 🎹 *Upcoming Projects* 🌌✧˖°
+# *˖°- 🎹 *Upcoming Projects* 🌌 ✧˖°
 
 ✧.* *AIs, websites, VST plugins, and probably more...* 🦭 ✧.*
