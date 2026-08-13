@@ -1,4 +1,4 @@
-# *˖°-* 🦦 Quick intro ☄️ ✧˖°*
+# *˖°-* 🦦 *Quick intro* ☄️ ✧˖°*
 
 *Hello ! my name is Sabah, but I prefer mostly to be called by my username* **sabahita** 💫
 
