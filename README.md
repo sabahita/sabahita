@@ -10,4 +10,4 @@
 
 # *˖°- 🎹 *Upcoming Projects* 🌌✧˖°
 
-✧.* *AIs, sites, VST plugins, and probably more...* 🦭 ✧.*
+✧.* *AIs, websites, VST plugins, and probably more...* 🦭 ✧.*
