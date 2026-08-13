@@ -10,4 +10,4 @@
 
 # *˖°- 🎹 *Upcoming Projects* 🌌✧˖°
 
-✧.* *Audio plugins & synthesizers (VSTs)* 🎵 ✧.*
+✧.* *AIs, sites, VST plugins, and probably more...* 🦭 ✧.*
